@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug so I can fix it
-title: "[MC VERSION] Title"
+title: "Title"
 labels: bug
 assignees: ''
 
