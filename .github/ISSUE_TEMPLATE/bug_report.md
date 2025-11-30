@@ -1,14 +1,13 @@
 ---
 name: Bug report
 about: Report a bug so I can fix it
-title: "Title"
+title: "[Mod name] Title"
 labels: bug
 assignees: ''
 
 ---
 
 ## **Information**
-Mod name: name
 Mod version: xx.xx.xx
 Minecraft version: xx.xx.xx
 Modloader: Neoforge / Fabric
